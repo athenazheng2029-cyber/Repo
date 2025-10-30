@@ -3,4 +3,4 @@
 1. When do we use branches?
 diverging, so it doesnt affect the main branch
 3. Why do we have to 'git pull' after merging?
-to merge the files together and make the repos less laggy
+to merge the files together and make the repos less laggy.
