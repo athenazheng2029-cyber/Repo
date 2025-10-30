@@ -1,9 +1,6 @@
 # Questions 
 
 1. When do we use branches?
-
-2. When do we use 'git pull'?
-
+diverging, so it doesnt affect the main branch
 3. Why do we have to 'git pull' after merging?
-
-4. What changed from our previous way of working?
+to merge the files together and make the repos less laggy
